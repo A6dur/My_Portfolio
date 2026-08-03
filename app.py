@@ -97,7 +97,7 @@ PROJECTS = [
     },
     {
         "name": "Notepad – CRUD Web App",
-        "years": "2024",
+        "years": "2026",
         "stack": "FastAPI, MongoDB Atlas, Jinja2, HTML, CSS",
         "desc": (
             "A full CRUD application for creating, viewing, editing, and "
@@ -110,7 +110,7 @@ PROJECTS = [
     },
     {
         "name": "News App",
-        "years": "2024",
+        "years": "2026",
         "stack": "Python, Streamlit, NewsAPI",
         "desc": (
             "A real-time news application with category-based filtering and an "
@@ -122,7 +122,7 @@ PROJECTS = [
     },
     {
         "name": "PDF Toolkit",
-        "years": "2024",
+        "years": "2026",
         "stack": "Python, Streamlit, PyPDF2",
         "desc": (
             "A toolkit to merge PDFs, extract text and images, and export "
@@ -134,7 +134,7 @@ PROJECTS = [
     },
     {
         "name": "Pocket Calculator",
-        "years": "2024",
+        "years": "2026",
         "stack": "Python, Streamlit",
         "desc": (
             "An interactive calculator with a clean, modern UI covering all "
@@ -146,7 +146,7 @@ PROJECTS = [
     },
     {
         "name": "Millionaire Game",
-        "years": "2024",
+        "years": "2026",
         "stack": "Python, Streamlit",
         "desc": (
             "A quiz game with a per-question timer, live countdown indicator, "
